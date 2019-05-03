@@ -16,6 +16,15 @@ still welcome feedback. You are welcome to open new issues to document
 desired outcomes or to request support for a particular OS and architecture
 combination.
 
+## Discussion
+
+Feel free to ping @genebean in the
+[Puppet Community Slack's](http://slack.puppet.com)
+[`#puppet-dev`](http://puppetcommunity.slack.com/app_redirect?channel=puppet-dev)
+channel anytime. @genebean will also be holding a weekly chat each Friday in May in
+[`#office-hours`](http://puppetcommunity.slack.com/app_redirect?channel=office-hours).
+Check out https://puppet.com/community/office-hours for times.
+
 ## Timeline
 
 There is no set timeline for any of this. That said, a few of us are very
